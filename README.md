@@ -8,14 +8,14 @@ The library has the following dependencies:
 ```bash
 pip3 install -r requirements.txt
 ```
--pandas
--numpy
--matplotlib
--seaborn
--sklearn
--pyts
--scikit-learn
--tensorflow-gpu
+-pandas <br/>
+-numpy <br/>
+-matplotlib <br/>
+-seaborn <br/>
+-sklearn <br/>
+-pyts <br/>
+-scikit-learn <br/>
+-tensorflow-gpu <br/>
 
 
 ## Descriptions
@@ -31,8 +31,8 @@ python3 main.py -i dataset -l sequence_legnth
 
 &ndash;  i : input subdataset (1 for FD001... 4 for FD004) <br/>
 &ndash;  l : sequence length of time series for each rp <br/>
---method : default='rps', help='method for encoding ts into img ' <br/>
---thres_type : default='distance', help='threshold type for RPs: distance or point ' <br/>
+--method : default='rps', help='method for encoding ts into img' <br/>
+--thres_type : default='distance', help='threshold type for RPs: distance or point' <br/>
 --thres_value : default=50, help='percentage of maximum distance or black points for threshold' <br/>
 --n_hidden1 : default=100, help='number of neurons in the first hidden layer' <br/>
 --n_hidden2 : default=10, help='number of neurons in the second hidden layer' <br/>
