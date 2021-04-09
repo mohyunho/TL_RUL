@@ -1,5 +1,10 @@
 # TL_RUL
 Application of Transfer Learning for RUL Prediction.
+-Encode time series into 2D image.
+-Merge 2D images to have one image as an input for CNN.
+-Evalute widely used CNN architectures with the above data
+-Apply transfer learning 
+
 
 ## Prerequisites
 You can download the benchmark dataset used in our experiments, C-MAPSS from [here](https://drive.google.com/drive/folders/1xHLtx9laqSTO_8LOFCdOBEkouMpbkAFM?usp=sharing).
