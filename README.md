@@ -59,10 +59,10 @@ Sliced time series with fixed length (so called sequence) right before
 ![](/figures/sequences.png)
 
 RPs of the above sequences
-![](/figures/r2f_ts.png)
+![](/figures/rps.png)
 
 Plot of training and validation loss in MLPs
-![](/figures/rps.png)
+![](/figures/loss.png)
 
 Prediction & ground truth of RUL
 ![](/figures/results.png)
