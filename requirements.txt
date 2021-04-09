@@ -1,0 +1,10 @@
+pandas
+matplotlib>=3.0.3
+seaborn
+sklearn
+pyts
+numpy==1.19.1
+scikit-learn==0.23.1
+tqdm==4.48.2
+tensorflow-gpu
+
