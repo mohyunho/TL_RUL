@@ -51,7 +51,7 @@ python3 main.py -h
 
 For example,
 ```bash
-python3 test.py -i 1 -l 30 --method rps --epochs 1000
+python3 main.py -i 1 -l 30 --method rps --epochs 1000
 ```
 
 After running the code, you will get the results in RMSE & Score on test data
